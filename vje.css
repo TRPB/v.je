@@ -1,4 +1,7 @@
 
+@import url('//cdn.jsdelivr.net/npm/hack-font@3.3.0/build/web/hack-subset.css');
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans');
+
 * {margin: 0; padding: 0;}
 body {overflow-x: hidden; background-color: #016391; font-family: "Noto Sans"; color: #333; }
 
