@@ -140,7 +140,7 @@ article section:nth-of-type(even) h2 {transform: rotate(-2deg); transform-origin
 
 
 
-code {padding: 0em 1em; font-family: "Hack"; color: white; background-color: #1e1e1e; transform: rotate(-1deg); margin-bottom: 2em; margin-top: 2em; transform-origin: top left; white-space: pre; overflow-x: auto; overflow-y: hidden;}
+code {display: block; padding: 0em 1em; font-family: "Hack"; color: white; background-color: #1e1e1e; transform: rotate(-1deg); margin-bottom: 2em; margin-top: 2em; transform-origin: top left; white-space: pre; overflow-x: auto; overflow-y: hidden;}
 code > * {transform: rotate(1deg); display: inline-block; margin-left: 3vw;}
 
 pre > code {display: block;}
