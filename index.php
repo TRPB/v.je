@@ -83,7 +83,7 @@ $_SERVER['HTTP_HOST']; ?>/test.html">https://<?= $_SERVER['HTTP_HOST'];
     <p>Connect to MySQL from inside or outside the VM with the details:</p>
 
     <ul>
-        <li>Host: <strong>v.je</strong></li>
+        <li>Host: <strong>mysql</strong></li>
         <li>Port: <strong>3306</strong></li>
         <li>Username: <strong>v.je</strong></li>
         <li>Password: <strong>v.je</strong></li>
